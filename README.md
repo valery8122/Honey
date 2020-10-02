@@ -1,0 +1,2 @@
+# Honey
+Bot de discord ^^!
